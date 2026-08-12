@@ -1,16 +1,13 @@
-## Hi there 👋
+### hey, I'm Shadid
 
-<!--
-**sheikhmshadid/sheikhmshadid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build full-stack side projects end to end — frontend, backend, and the database schema in between.
 
-Here are some ideas to get you started:
+**What I'm building right now:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Loage](https://github.com/sheikhmshadid/stacktracker)** — a watchlist app that ranks what you've watched by pairwise comparison instead of star ratings. This is the one I'm heads-down on.
+- **[ninetyfourohfive](https://github.com/sheikhmshadid/ninetyfourohfive)** — a content dashboard for scheduling and publishing an Instagram archive account, with an LLM-assisted pipeline for sourcing images, cropping, and captions.
+- **Kirkova Sports** — the frontend for a self-hosted NBA/MLB prediction system: game picks, model accuracy, and live data.
+
+I've also built a password and note manager for my own use, along with a few smaller tools here and there.
+
+Reach me at sheikhmshadid@gmail.com.
